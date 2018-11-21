@@ -85,11 +85,11 @@ LANGUAGES = (
 
 # Facebook Aplication ID used in social_sharing temaplate. Default: ''
 # In order to get the ID create an app in https://developers.facebook.com/
-FACEBOOK_ID = ''
+FACEBOOK_ID = '290276671593723'
 
 # Google Analytics ID. Default: ''
 # In order to get the ID create a Google Analytics Acount in https://analytics.google.com/analytics/web/
-ANALYTICS_ID = ''
+ANALYTICS_ID = 'UA-129584310-2'
 
 # Setup Data Source Budget link
 DATA_SOURCE_BUDGET = 'https://adeje.transparencialocal.gob.es/'
@@ -134,7 +134,7 @@ FEATURED_PROGRAMMES = ['1621', '1710', '3380', '2410', '3110']
 # ----------------------
 
 # Use new Sankey visualization or the old one. Default: False
-# OVERVIEW_USE_NEW_VIS = True
+OVERVIEW_USE_NEW_VIS = True
 
 OVERVIEW_INCOME_NODES = [
                           {
