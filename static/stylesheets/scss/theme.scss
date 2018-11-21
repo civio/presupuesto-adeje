@@ -1,1 +1,13 @@
 @import "theme-variables";
+
+.main-entity-logo{
+  margin-top: 0;
+}
+
+#menu-lang{
+  margin-bottom: 20px;
+}
+
+.home-content .options .option>div .icon{
+  color: $brand-secondary;
+}
