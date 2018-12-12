@@ -522,4 +522,11 @@ G,9,4,1,Repayment of guarantees
 #
 # Conceptos específicos de Adeje
 #
-
+I,3,0,5,Cemeteries
+I,4,7,0,From private companies
+I,4,8,0,From non-profit families and institutions
+I,5,2,0,Interests of deposits
+G,4,8,0,Charities and assistance
+G,4,8,1,"Awards, scholarships and pensions"
+G,4,8,9,Other transfers
+G,7,4,0,To public entities and mercantile societies of the local entity

@@ -35,4 +35,66 @@
 #
 # Programas específicos de Adeje
 #
-
+1,3,0,0,General administration of security and civil protection
+1,3,2,0,Security and public order
+1,3,3,0,Traffic and parking management
+1,3,5,0,Civil protection
+1,5,1,0,"Urbanism: urban planning, management, execution and discipline"
+1,5,2,2,Conservation and rehabilitation of edification
+1,5,3,1,Access to population centers
+1,5,3,2,Paving of public roads
+1,6,0,0,Sewerage
+1,6,1,0,Home supply of drinking water
+1,6,2,1,Waste collection
+1,6,2,3,Waste treatment
+1,6,3,0,Street cleaning
+1,6,4,0,Cemeteries and funeral services
+1,6,5,0,Street lighting
+1,7,0,0,General administration of the environment
+1,7,1,0,Parks and gardens
+1,7,2,0,Protection and improvement of the environment
+1,7,2,2,Beaches
+2,3,1,0,Primary social assistance
+2,3,1,1,Assistance to dependents
+2,3,1,2,Promotion of gender equality
+2,3,1,3,Residence of the elderly José Almeida
+2,3,1,4,Home for minors
+2,3,1,5,Day centre
+2,4,1,0,Promotion of employment
+3,1,1,0,Protection of public health
+3,2,0,0,General administration of education
+3,2,3,0,Operation of educational centers of infant and primary education and special education
+3,2,3,1,Operation of the School of Security
+3,2,3,2,Operation of university teaching centers
+3,2,6,0,Complementary education services
+3,2,7,0,Promotion of citizen coexistence
+3,3,2,1,Public libraries
+3,3,2,2,Archives
+3,3,3,0,Cultural facilities and museums
+3,3,4,0,Cultural promotion
+3,3,4,1,Municipal school of music
+3,3,6,0,Protection and management of historical-artistic heritage
+3,3,7,1,Elderly
+3,3,7,2,Youth
+3,3,8,0,Popular festivities and celebrations
+3,4,0,0,General administration of sports
+3,4,1,0,Promotion and encouragement of sport
+3,4,2,0,Sport facilities
+4,3,1,2,Markets
+4,3,2,0,Information and tourism promotion
+4,3,9,0,Other sectorial actions
+4,4,1,0,Passenger transport services
+4,5,9,0,Other infrastructures
+4,9,1,0,Information society
+4,9,3,0,Protection of consumers and users
+9,1,2,0,Governing bodies
+9,2,0,0,General administration
+9,2,3,0,Basic information and statistics
+9,2,4,0,Citizen participation
+9,2,5,0,Citizen service
+9,2,9,0,Unplanned and unclassified functions
+9,3,1,0,Economic and fiscal policy
+9,3,2,0,Management of the tax system
+9,3,3,0,Management of heritage
+9,3,4,0,Debt and treasury management
+9,4,3,0,Transfers to other local entities
