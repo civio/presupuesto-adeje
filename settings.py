@@ -124,7 +124,7 @@ COOKIES_URL = ''
 # ----------------------
 
 # Programmes to feature as example in home page.
-FEATURED_PROGRAMMES = ['1621', '1710', '3380', '2410', '3110']
+FEATURED_PROGRAMMES = ['1610', '1320', '9200', '1532', '2310', '1710', '9320', '3340', '2410', '3410', '4320', '9120', '3230', '4910', '9430', '3110', '4410']
 
 # Number of programmes to feature in home page. Default: 3
 # NUMBER_OF_FEATURED_PROGRAMMES = 3
@@ -136,36 +136,9 @@ FEATURED_PROGRAMMES = ['1621', '1710', '3380', '2410', '3110']
 # Use new Sankey visualization or the old one. Default: False
 OVERVIEW_USE_NEW_VIS = True
 
-OVERVIEW_INCOME_NODES = [
-                          {
-                            'nodes': [['11', '113']],
-                            'label': 'Impuesto a bienes inmuebles de naturaleza urbana',
-                            'link_id': '11'
-                          },
-                          {
-                            'nodes': [['30', '300']],
-                            'label': 'Servicio de abastecimiento de agua',
-                            'link_id': '30'
-                          },
-                          '42', '45',
-                          {
-                            'nodes': [['29', '293']],
-                            'label': 'Impuesto general indirecto canario (IGIC)',
-                            'link_id': '29'
-                          },
-                          {
-                            'nodes': [['11', '115']],
-                            'label': 'Impuesto sobre vehículos de tracción mecánica',
-                            'link_id': '11'
-                          },
-                          {
-                            'nodes': [['30', '302']],
-                            'label': 'Servicio de recogida de basuras',
-                            'link_id': '30'
-                          },
-                        ]
+OVERVIEW_INCOME_NODES = ['11', '30', '46', '42', '36', '45', '29', '13', '60', '75']
 
-OVERVIEW_EXPENSE_NODES = ['16', '13', '92', '15', '33', '23', '34', '17', '32']
+OVERVIEW_EXPENSE_NODES = ['16', '13', '92', '15', '23', '17', '93', '33', '24', '34']
 
 # How much padding between Sankey nodes. Default: 2 (Optional)
 # OVERVIEW_NODE_PADDING = 2
