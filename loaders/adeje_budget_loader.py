@@ -8,6 +8,7 @@ expenses_mapping = {
 
 income_mapping = {
     'default': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 2, 'actual_amount': 7},
+    '2016': {'full_ec_code': 0, 'description': 1, 'forecast_amount': 2, 'actual_amount': 6},
 }
 
 programme_mapping = {
